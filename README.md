@@ -26,7 +26,7 @@ This project was developed to demonstrate **proficiency in Tableau** by analyzin
 
 ## View the Interactive Dashboard
 
-🔗 [Click to View on Tableau Public]([YOUR_TABLEAU_PUBLIC_LINK_HERE](https://public.tableau.com/app/profile/ryanne.milligan/viz/ParkinsonsDiagnosisAnalysis/ParkinsonsDiseaseDataAnalysis))  
+👉 [Click here to view the dashboard on Tableau Public](https://public.tableau.com/app/profile/ryanne.milligan/viz/ParkinsonsDiagnosisAnalysis/ParkinsonsDiseaseDataAnalysis)
 
 ---
 
