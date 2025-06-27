@@ -7,7 +7,7 @@ This project was developed to demonstrate **proficiency in Tableau** by analyzin
 
 ## Objectives
 
-- Showcase **Tableau skills** using real-world health data
+- Showcase **Tableau skills** using synthetic health data based on real-world cases. 
 - Highlight data storytelling through interactive visuals
 - Support analysis with basic Python preprocessing in Jupyter Notebook
 
